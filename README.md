@@ -78,4 +78,4 @@ LOG TRANSFORMATION:
 
 
 ### RESULT:
-Thus we have successfully created the python code for the conversion of non stationary to stationary data of power consumption dataset.
+Thus, The python code for the conversion of non stationary to stationary data of power consumption dataset is executed successfully.
