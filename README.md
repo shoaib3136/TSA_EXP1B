@@ -1,8 +1,8 @@
-# Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-
 # Developed By: Shaik Shoaib Nawaz
 
 # Register No: 212222240094
+
+# Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
 # Date: 
 
